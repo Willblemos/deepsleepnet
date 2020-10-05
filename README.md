@@ -1,3 +1,11 @@
+# Disclaimer #
+
+This implementation is based on the project that can be found in the https://github.com/akaraspt/deepsleepnet repository. To adapt the project to the scope of the space apps challenge, we modified some parameters.
+
+Essa implementação é baseada no projeto que pode ser encontrado no repositório https://github.com/akaraspt/deepsleepnet. Para adequarmos o projeto para o escopo do space apps challenge, modificamos alguns parâmetros. 
+
+
+
 # DeepSleepNet #
 A deep learning model for automatic sleep stage scoring based on raw, single-channel EEG.
 
