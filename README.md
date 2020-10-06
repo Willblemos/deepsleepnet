@@ -6,6 +6,7 @@ Essa implementação é baseada no projeto que pode ser encontrado no repositór
 
 # Results #
 -Sleep stages identified by the trained model
+
 -Estágios do sono identificados pelo modelo treinado. 
 ![sleep_stages](./img/sleep_stages.png)
 
