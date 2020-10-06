@@ -4,7 +4,7 @@ This implementation is based on the project that can be found in the https://git
 
 Essa implementação é baseada no projeto que pode ser encontrado no repositório https://github.com/akaraspt/deepsleepnet. Para adequarmos o projeto para o escopo do space apps challenge, modificamos alguns parâmetros. 
 
-#Results#
+# Results #
 -Sleep stages identified by the trained model
 -Estágios do sono identificados pelo modelo treinado. 
 ![sleep_stages](./img/sleep_stages.png)
